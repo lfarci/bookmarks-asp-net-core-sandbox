@@ -1,4 +1,4 @@
-﻿namespace Bookmarks.Models
+﻿namespace BookmarksWebApp.Models
 {
     public enum Category { Social, Productivity, Development, Other }
 }

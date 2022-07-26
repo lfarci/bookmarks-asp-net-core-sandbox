@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Bookmarks.Models
+namespace BookmarksWebApp.Models
 {
     public partial class Bookmark
     {
