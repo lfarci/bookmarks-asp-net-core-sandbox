@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace Bookmarks.Pages;
+namespace BookmarksWebApp.Pages;
 
 public class IndexModel : PageModel
 {
